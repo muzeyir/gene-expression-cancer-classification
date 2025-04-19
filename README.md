@@ -37,4 +37,4 @@ Each model was evaluated using:
 ## 📊 Visualizations
 - Confusion matrices for each model using `Seaborn`
 - Accuracy comparison bar chart
-
+- StreamLit UI
