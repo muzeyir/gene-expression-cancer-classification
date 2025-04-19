@@ -1,5 +1,3 @@
-# Note : for datasets I used my Google Drive and if you want to use dataset you can just download data folder and unzip it
-
 # Cancer Type Classification Using Gene Expression Data
 
 ## 📌 Project Overview
@@ -39,3 +37,4 @@ Each model was evaluated using:
 ## 📊 Visualizations
 - Confusion matrices for each model using `Seaborn`
 - Accuracy comparison bar chart
+
